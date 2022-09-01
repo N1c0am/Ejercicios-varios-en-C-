@@ -1,0 +1,8 @@
+C:\Users\Nicolás\source\repos\05 - Estructura de programación secuencial p1\05 - Estructura de programación secuencial p1\bin\Debug\05 - Estructura de programación secuencial p1.exe.config
+C:\Users\Nicolás\source\repos\05 - Estructura de programación secuencial p1\05 - Estructura de programación secuencial p1\bin\Debug\05 - Estructura de programación secuencial p1.exe
+C:\Users\Nicolás\source\repos\05 - Estructura de programación secuencial p1\05 - Estructura de programación secuencial p1\bin\Debug\05 - Estructura de programación secuencial p1.pdb
+C:\Users\Nicolás\source\repos\05 - Estructura de programación secuencial p1\05 - Estructura de programación secuencial p1\obj\Debug\05 - Estructura de programación secuencial p1.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\05 - Estructura de programación secuencial p1\05 - Estructura de programación secuencial p1\obj\Debug\05 - Estructura de programación secuencial p1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\05 - Estructura de programación secuencial p1\05 - Estructura de programación secuencial p1\obj\Debug\05 - Estructura de programación secuencial p1.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\05 - Estructura de programación secuencial p1\05 - Estructura de programación secuencial p1\obj\Debug\05 - Estructura de programación secuencial p1.exe
+C:\Users\Nicolás\source\repos\05 - Estructura de programación secuencial p1\05 - Estructura de programación secuencial p1\obj\Debug\05 - Estructura de programación secuencial p1.pdb

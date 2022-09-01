@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _003._Variables_y_tipos_datos___Curso
+build_property.ProjectDir = C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\

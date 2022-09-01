@@ -1,0 +1,15 @@
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\bin\Debug\net6.0\7 Estructuras condicionales anidadas - 02.exe
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\bin\Debug\net6.0\7 Estructuras condicionales anidadas - 02.deps.json
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\bin\Debug\net6.0\7 Estructuras condicionales anidadas - 02.runtimeconfig.json
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\bin\Debug\net6.0\7 Estructuras condicionales anidadas - 02.dll
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\bin\Debug\net6.0\ref\7 Estructuras condicionales anidadas - 02.dll
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\bin\Debug\net6.0\7 Estructuras condicionales anidadas - 02.pdb
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\obj\Debug\net6.0\7 Estructuras condicionales anidadas - 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\obj\Debug\net6.0\7 Estructuras condicionales anidadas - 02.AssemblyInfoInputs.cache
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\obj\Debug\net6.0\7 Estructuras condicionales anidadas - 02.AssemblyInfo.vb
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\obj\Debug\net6.0\7 Estructuras condicionales anidadas - 02.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\obj\Debug\net6.0\7 Estructuras condicionales anidadas - 02.dll
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\obj\Debug\net6.0\ref\7 Estructuras condicionales anidadas - 02.dll
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\obj\Debug\net6.0\7 Estructuras condicionales anidadas - 02.pdb
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\obj\Debug\net6.0\7 Estructuras condicionales anidadas - 02.genruntimeconfig.cache
+C:\Users\Nicolás\source\repos\7 Estructuras condicionales anidadas - 02\7 Estructuras condicionales anidadas - 02\obj\Debug\net6.0\7 Estructuras condicionales anidadas - 02.vbproj.AssemblyReference.cache

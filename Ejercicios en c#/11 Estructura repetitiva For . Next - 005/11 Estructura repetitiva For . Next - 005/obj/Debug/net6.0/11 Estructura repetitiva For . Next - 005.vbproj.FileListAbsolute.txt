@@ -1,0 +1,15 @@
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\bin\Debug\net6.0\11 Estructura repetitiva For . Next - 005.exe
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\bin\Debug\net6.0\11 Estructura repetitiva For . Next - 005.deps.json
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\bin\Debug\net6.0\11 Estructura repetitiva For . Next - 005.runtimeconfig.json
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\bin\Debug\net6.0\11 Estructura repetitiva For . Next - 005.dll
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\bin\Debug\net6.0\ref\11 Estructura repetitiva For . Next - 005.dll
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\bin\Debug\net6.0\11 Estructura repetitiva For . Next - 005.pdb
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\obj\Debug\net6.0\11 Estructura repetitiva For . Next - 005.vbproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\obj\Debug\net6.0\11 Estructura repetitiva For . Next - 005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\obj\Debug\net6.0\11 Estructura repetitiva For . Next - 005.AssemblyInfoInputs.cache
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\obj\Debug\net6.0\11 Estructura repetitiva For . Next - 005.AssemblyInfo.vb
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\obj\Debug\net6.0\11 Estructura repetitiva For . Next - 005.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\obj\Debug\net6.0\11 Estructura repetitiva For . Next - 005.dll
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\obj\Debug\net6.0\ref\11 Estructura repetitiva For . Next - 005.dll
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\obj\Debug\net6.0\11 Estructura repetitiva For . Next - 005.pdb
+C:\Users\Nicolás\source\repos\11 Estructura repetitiva For . Next - 005\11 Estructura repetitiva For . Next - 005\obj\Debug\net6.0\11 Estructura repetitiva For . Next - 005.genruntimeconfig.cache

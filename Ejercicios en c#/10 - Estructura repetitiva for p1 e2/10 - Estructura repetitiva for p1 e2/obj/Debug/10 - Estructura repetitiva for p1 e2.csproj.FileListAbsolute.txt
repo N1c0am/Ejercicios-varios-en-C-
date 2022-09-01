@@ -1,0 +1,8 @@
+C:\Users\Nicolás\source\repos\10 - Estructura repetitiva for p1 e2\10 - Estructura repetitiva for p1 e2\bin\Debug\10 - Estructura repetitiva for p1 e2.exe.config
+C:\Users\Nicolás\source\repos\10 - Estructura repetitiva for p1 e2\10 - Estructura repetitiva for p1 e2\bin\Debug\10 - Estructura repetitiva for p1 e2.exe
+C:\Users\Nicolás\source\repos\10 - Estructura repetitiva for p1 e2\10 - Estructura repetitiva for p1 e2\bin\Debug\10 - Estructura repetitiva for p1 e2.pdb
+C:\Users\Nicolás\source\repos\10 - Estructura repetitiva for p1 e2\10 - Estructura repetitiva for p1 e2\obj\Debug\10 - Estructura repetitiva for p1 e2.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\10 - Estructura repetitiva for p1 e2\10 - Estructura repetitiva for p1 e2\obj\Debug\10 - Estructura repetitiva for p1 e2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\10 - Estructura repetitiva for p1 e2\10 - Estructura repetitiva for p1 e2\obj\Debug\10 - Estructura repetitiva for p1 e2.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\10 - Estructura repetitiva for p1 e2\10 - Estructura repetitiva for p1 e2\obj\Debug\10 - Estructura repetitiva for p1 e2.exe
+C:\Users\Nicolás\source\repos\10 - Estructura repetitiva for p1 e2\10 - Estructura repetitiva for p1 e2\obj\Debug\10 - Estructura repetitiva for p1 e2.pdb

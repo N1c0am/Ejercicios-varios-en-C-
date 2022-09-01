@@ -1,0 +1,8 @@
+C:\Users\Nicolás\source\repos\07 Curso C Sharp - Practicando con un ejemplo\07 Curso C Sharp - Practicando con un ejemplo\bin\Debug\07 Curso C Sharp - Practicando con un ejemplo.exe.config
+C:\Users\Nicolás\source\repos\07 Curso C Sharp - Practicando con un ejemplo\07 Curso C Sharp - Practicando con un ejemplo\bin\Debug\07 Curso C Sharp - Practicando con un ejemplo.exe
+C:\Users\Nicolás\source\repos\07 Curso C Sharp - Practicando con un ejemplo\07 Curso C Sharp - Practicando con un ejemplo\bin\Debug\07 Curso C Sharp - Practicando con un ejemplo.pdb
+C:\Users\Nicolás\source\repos\07 Curso C Sharp - Practicando con un ejemplo\07 Curso C Sharp - Practicando con un ejemplo\obj\Debug\07 Curso C Sharp - Practicando con un ejemplo.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\07 Curso C Sharp - Practicando con un ejemplo\07 Curso C Sharp - Practicando con un ejemplo\obj\Debug\07 Curso C Sharp - Practicando con un ejemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\07 Curso C Sharp - Practicando con un ejemplo\07 Curso C Sharp - Practicando con un ejemplo\obj\Debug\07 Curso C Sharp - Practicando con un ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\07 Curso C Sharp - Practicando con un ejemplo\07 Curso C Sharp - Practicando con un ejemplo\obj\Debug\07 Curso C Sharp - Practicando con un ejemplo.exe
+C:\Users\Nicolás\source\repos\07 Curso C Sharp - Practicando con un ejemplo\07 Curso C Sharp - Practicando con un ejemplo\obj\Debug\07 Curso C Sharp - Practicando con un ejemplo.pdb

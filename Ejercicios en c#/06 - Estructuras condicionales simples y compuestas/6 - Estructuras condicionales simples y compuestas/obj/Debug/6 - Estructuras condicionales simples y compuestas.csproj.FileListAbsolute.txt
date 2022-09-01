@@ -1,0 +1,8 @@
+C:\Users\Nicolás\source\repos\6 - Estructuras condicionales simples y compuestas\6 - Estructuras condicionales simples y compuestas\bin\Debug\6 - Estructuras condicionales simples y compuestas.exe.config
+C:\Users\Nicolás\source\repos\6 - Estructuras condicionales simples y compuestas\6 - Estructuras condicionales simples y compuestas\bin\Debug\6 - Estructuras condicionales simples y compuestas.exe
+C:\Users\Nicolás\source\repos\6 - Estructuras condicionales simples y compuestas\6 - Estructuras condicionales simples y compuestas\bin\Debug\6 - Estructuras condicionales simples y compuestas.pdb
+C:\Users\Nicolás\source\repos\6 - Estructuras condicionales simples y compuestas\6 - Estructuras condicionales simples y compuestas\obj\Debug\6 - Estructuras condicionales simples y compuestas.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\6 - Estructuras condicionales simples y compuestas\6 - Estructuras condicionales simples y compuestas\obj\Debug\6 - Estructuras condicionales simples y compuestas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\6 - Estructuras condicionales simples y compuestas\6 - Estructuras condicionales simples y compuestas\obj\Debug\6 - Estructuras condicionales simples y compuestas.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\6 - Estructuras condicionales simples y compuestas\6 - Estructuras condicionales simples y compuestas\obj\Debug\6 - Estructuras condicionales simples y compuestas.exe
+C:\Users\Nicolás\source\repos\6 - Estructuras condicionales simples y compuestas\6 - Estructuras condicionales simples y compuestas\obj\Debug\6 - Estructuras condicionales simples y compuestas.pdb

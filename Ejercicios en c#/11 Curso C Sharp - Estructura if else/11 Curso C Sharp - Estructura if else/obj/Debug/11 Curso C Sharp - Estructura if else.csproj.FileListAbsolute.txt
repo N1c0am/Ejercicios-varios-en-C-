@@ -1,0 +1,8 @@
+C:\Users\Nicolás\source\repos\11 Curso C Sharp - Estructura if else\11 Curso C Sharp - Estructura if else\bin\Debug\11 Curso C Sharp - Estructura if else.exe.config
+C:\Users\Nicolás\source\repos\11 Curso C Sharp - Estructura if else\11 Curso C Sharp - Estructura if else\bin\Debug\11 Curso C Sharp - Estructura if else.exe
+C:\Users\Nicolás\source\repos\11 Curso C Sharp - Estructura if else\11 Curso C Sharp - Estructura if else\bin\Debug\11 Curso C Sharp - Estructura if else.pdb
+C:\Users\Nicolás\source\repos\11 Curso C Sharp - Estructura if else\11 Curso C Sharp - Estructura if else\obj\Debug\11 Curso C Sharp - Estructura if else.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\11 Curso C Sharp - Estructura if else\11 Curso C Sharp - Estructura if else\obj\Debug\11 Curso C Sharp - Estructura if else.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\11 Curso C Sharp - Estructura if else\11 Curso C Sharp - Estructura if else\obj\Debug\11 Curso C Sharp - Estructura if else.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\11 Curso C Sharp - Estructura if else\11 Curso C Sharp - Estructura if else\obj\Debug\11 Curso C Sharp - Estructura if else.exe
+C:\Users\Nicolás\source\repos\11 Curso C Sharp - Estructura if else\11 Curso C Sharp - Estructura if else\obj\Debug\11 Curso C Sharp - Estructura if else.pdb

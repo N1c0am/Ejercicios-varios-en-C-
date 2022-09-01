@@ -1,0 +1,8 @@
+C:\Users\Nicolás\source\repos\3 Codificación del diagrama de flujo en C gato\3 Codificación del diagrama de flujo en C gato\bin\Debug\3 Codificación del diagrama de flujo en C gato.exe.config
+C:\Users\Nicolás\source\repos\3 Codificación del diagrama de flujo en C gato\3 Codificación del diagrama de flujo en C gato\bin\Debug\3 Codificación del diagrama de flujo en C gato.exe
+C:\Users\Nicolás\source\repos\3 Codificación del diagrama de flujo en C gato\3 Codificación del diagrama de flujo en C gato\bin\Debug\3 Codificación del diagrama de flujo en C gato.pdb
+C:\Users\Nicolás\source\repos\3 Codificación del diagrama de flujo en C gato\3 Codificación del diagrama de flujo en C gato\obj\Debug\3 Codificación del diagrama de flujo en C gato.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\3 Codificación del diagrama de flujo en C gato\3 Codificación del diagrama de flujo en C gato\obj\Debug\3 Codificación del diagrama de flujo en C gato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\3 Codificación del diagrama de flujo en C gato\3 Codificación del diagrama de flujo en C gato\obj\Debug\3 Codificación del diagrama de flujo en C gato.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\3 Codificación del diagrama de flujo en C gato\3 Codificación del diagrama de flujo en C gato\obj\Debug\3 Codificación del diagrama de flujo en C gato.exe
+C:\Users\Nicolás\source\repos\3 Codificación del diagrama de flujo en C gato\3 Codificación del diagrama de flujo en C gato\obj\Debug\3 Codificación del diagrama de flujo en C gato.pdb

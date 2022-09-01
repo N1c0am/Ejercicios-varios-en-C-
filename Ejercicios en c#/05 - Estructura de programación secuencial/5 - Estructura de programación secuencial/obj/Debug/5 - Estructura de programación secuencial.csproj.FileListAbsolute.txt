@@ -1,0 +1,8 @@
+C:\Users\Nicolás\source\repos\5 - Estructura de programación secuencial\5 - Estructura de programación secuencial\bin\Debug\5 - Estructura de programación secuencial.exe.config
+C:\Users\Nicolás\source\repos\5 - Estructura de programación secuencial\5 - Estructura de programación secuencial\bin\Debug\5 - Estructura de programación secuencial.exe
+C:\Users\Nicolás\source\repos\5 - Estructura de programación secuencial\5 - Estructura de programación secuencial\bin\Debug\5 - Estructura de programación secuencial.pdb
+C:\Users\Nicolás\source\repos\5 - Estructura de programación secuencial\5 - Estructura de programación secuencial\obj\Debug\5 - Estructura de programación secuencial.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\5 - Estructura de programación secuencial\5 - Estructura de programación secuencial\obj\Debug\5 - Estructura de programación secuencial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\5 - Estructura de programación secuencial\5 - Estructura de programación secuencial\obj\Debug\5 - Estructura de programación secuencial.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\5 - Estructura de programación secuencial\5 - Estructura de programación secuencial\obj\Debug\5 - Estructura de programación secuencial.exe
+C:\Users\Nicolás\source\repos\5 - Estructura de programación secuencial\5 - Estructura de programación secuencial\obj\Debug\5 - Estructura de programación secuencial.pdb

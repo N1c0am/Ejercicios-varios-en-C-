@@ -1,0 +1,8 @@
+C:\Users\Nicolás\source\repos\9 - Estructura repetitiva While - 001\9 - Estructura repetitiva While - 001\bin\Debug\9 - Estructura repetitiva While - 001.exe.config
+C:\Users\Nicolás\source\repos\9 - Estructura repetitiva While - 001\9 - Estructura repetitiva While - 001\bin\Debug\9 - Estructura repetitiva While - 001.exe
+C:\Users\Nicolás\source\repos\9 - Estructura repetitiva While - 001\9 - Estructura repetitiva While - 001\bin\Debug\9 - Estructura repetitiva While - 001.pdb
+C:\Users\Nicolás\source\repos\9 - Estructura repetitiva While - 001\9 - Estructura repetitiva While - 001\obj\Debug\9 - Estructura repetitiva While - 001.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\9 - Estructura repetitiva While - 001\9 - Estructura repetitiva While - 001\obj\Debug\9 - Estructura repetitiva While - 001.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\9 - Estructura repetitiva While - 001\9 - Estructura repetitiva While - 001\obj\Debug\9 - Estructura repetitiva While - 001.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\9 - Estructura repetitiva While - 001\9 - Estructura repetitiva While - 001\obj\Debug\9 - Estructura repetitiva While - 001.exe
+C:\Users\Nicolás\source\repos\9 - Estructura repetitiva While - 001\9 - Estructura repetitiva While - 001\obj\Debug\9 - Estructura repetitiva While - 001.pdb

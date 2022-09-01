@@ -1,0 +1,14 @@
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\bin\Debug\net6.0\12 Cadenas de caracteres - 002.exe
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\bin\Debug\net6.0\12 Cadenas de caracteres - 002.deps.json
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\bin\Debug\net6.0\12 Cadenas de caracteres - 002.runtimeconfig.json
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\bin\Debug\net6.0\12 Cadenas de caracteres - 002.dll
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\bin\Debug\net6.0\ref\12 Cadenas de caracteres - 002.dll
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\bin\Debug\net6.0\12 Cadenas de caracteres - 002.pdb
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\obj\Debug\net6.0\12 Cadenas de caracteres - 002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\obj\Debug\net6.0\12 Cadenas de caracteres - 002.AssemblyInfoInputs.cache
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\obj\Debug\net6.0\12 Cadenas de caracteres - 002.AssemblyInfo.vb
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\obj\Debug\net6.0\12 Cadenas de caracteres - 002.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\obj\Debug\net6.0\12 Cadenas de caracteres - 002.dll
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\obj\Debug\net6.0\ref\12 Cadenas de caracteres - 002.dll
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\obj\Debug\net6.0\12 Cadenas de caracteres - 002.pdb
+C:\Users\Nicolás\source\repos\12 Cadenas de caracteres - 002\12 Cadenas de caracteres - 002\obj\Debug\net6.0\12 Cadenas de caracteres - 002.genruntimeconfig.cache

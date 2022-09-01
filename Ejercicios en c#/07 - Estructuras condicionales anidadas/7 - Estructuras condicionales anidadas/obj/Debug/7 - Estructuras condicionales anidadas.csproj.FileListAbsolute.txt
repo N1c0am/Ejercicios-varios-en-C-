@@ -1,0 +1,8 @@
+C:\Users\Nicolás\source\repos\7 - Estructuras condicionales anidadas\7 - Estructuras condicionales anidadas\bin\Debug\7 - Estructuras condicionales anidadas.exe.config
+C:\Users\Nicolás\source\repos\7 - Estructuras condicionales anidadas\7 - Estructuras condicionales anidadas\bin\Debug\7 - Estructuras condicionales anidadas.exe
+C:\Users\Nicolás\source\repos\7 - Estructuras condicionales anidadas\7 - Estructuras condicionales anidadas\bin\Debug\7 - Estructuras condicionales anidadas.pdb
+C:\Users\Nicolás\source\repos\7 - Estructuras condicionales anidadas\7 - Estructuras condicionales anidadas\obj\Debug\7 - Estructuras condicionales anidadas.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\7 - Estructuras condicionales anidadas\7 - Estructuras condicionales anidadas\obj\Debug\7 - Estructuras condicionales anidadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\7 - Estructuras condicionales anidadas\7 - Estructuras condicionales anidadas\obj\Debug\7 - Estructuras condicionales anidadas.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\7 - Estructuras condicionales anidadas\7 - Estructuras condicionales anidadas\obj\Debug\7 - Estructuras condicionales anidadas.exe
+C:\Users\Nicolás\source\repos\7 - Estructuras condicionales anidadas\7 - Estructuras condicionales anidadas\obj\Debug\7 - Estructuras condicionales anidadas.pdb

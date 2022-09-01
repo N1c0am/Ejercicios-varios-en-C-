@@ -1,0 +1,15 @@
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\bin\Debug\net6.0\005 Estructura de programación secuencial.exe
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\bin\Debug\net6.0\005 Estructura de programación secuencial.deps.json
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\bin\Debug\net6.0\005 Estructura de programación secuencial.runtimeconfig.json
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\bin\Debug\net6.0\005 Estructura de programación secuencial.dll
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\bin\Debug\net6.0\ref\005 Estructura de programación secuencial.dll
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\bin\Debug\net6.0\005 Estructura de programación secuencial.pdb
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\obj\Debug\net6.0\005 Estructura de programación secuencial.vbproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\obj\Debug\net6.0\005 Estructura de programación secuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\obj\Debug\net6.0\005 Estructura de programación secuencial.AssemblyInfoInputs.cache
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\obj\Debug\net6.0\005 Estructura de programación secuencial.AssemblyInfo.vb
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\obj\Debug\net6.0\005 Estructura de programación secuencial.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\obj\Debug\net6.0\005 Estructura de programación secuencial.dll
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\obj\Debug\net6.0\ref\005 Estructura de programación secuencial.dll
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\obj\Debug\net6.0\005 Estructura de programación secuencial.pdb
+C:\Users\Nicolás\source\repos\005 Estructura de programación secuencial\005 Estructura de programación secuencial\obj\Debug\net6.0\005 Estructura de programación secuencial.genruntimeconfig.cache

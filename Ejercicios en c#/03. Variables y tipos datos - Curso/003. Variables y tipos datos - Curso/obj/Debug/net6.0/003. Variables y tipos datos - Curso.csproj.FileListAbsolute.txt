@@ -1,0 +1,15 @@
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\bin\Debug\net6.0\003. Variables y tipos datos - Curso.exe
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\bin\Debug\net6.0\003. Variables y tipos datos - Curso.deps.json
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\bin\Debug\net6.0\003. Variables y tipos datos - Curso.runtimeconfig.json
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\bin\Debug\net6.0\003. Variables y tipos datos - Curso.dll
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\bin\Debug\net6.0\003. Variables y tipos datos - Curso.pdb
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\obj\Debug\net6.0\003. Variables y tipos datos - Curso.csproj.AssemblyReference.cache
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\obj\Debug\net6.0\003. Variables y tipos datos - Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\obj\Debug\net6.0\003. Variables y tipos datos - Curso.AssemblyInfoInputs.cache
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\obj\Debug\net6.0\003. Variables y tipos datos - Curso.AssemblyInfo.cs
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\obj\Debug\net6.0\003. Variables y tipos datos - Curso.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\obj\Debug\net6.0\003. Variables y tipos datos - Curso.dll
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\obj\Debug\net6.0\refint\003. Variables y tipos datos - Curso.dll
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\obj\Debug\net6.0\003. Variables y tipos datos - Curso.pdb
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\obj\Debug\net6.0\003. Variables y tipos datos - Curso.genruntimeconfig.cache
+C:\Users\Nicolás\source\repos\003. Variables y tipos datos - Curso\003. Variables y tipos datos - Curso\obj\Debug\net6.0\ref\003. Variables y tipos datos - Curso.dll

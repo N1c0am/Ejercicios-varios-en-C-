@@ -1,0 +1,7 @@
+C:\Users\Nicolás\source\repos\4 - Errores sintácticos y lógicos\4 - Errores sintácticos y lógicos\bin\Debug\4 - Errores sintácticos y lógicos.exe.config
+C:\Users\Nicolás\source\repos\4 - Errores sintácticos y lógicos\4 - Errores sintácticos y lógicos\bin\Debug\4 - Errores sintácticos y lógicos.exe
+C:\Users\Nicolás\source\repos\4 - Errores sintácticos y lógicos\4 - Errores sintácticos y lógicos\bin\Debug\4 - Errores sintácticos y lógicos.pdb
+C:\Users\Nicolás\source\repos\4 - Errores sintácticos y lógicos\4 - Errores sintácticos y lógicos\obj\Debug\4 - Errores sintácticos y lógicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolás\source\repos\4 - Errores sintácticos y lógicos\4 - Errores sintácticos y lógicos\obj\Debug\4 - Errores sintácticos y lógicos.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\source\repos\4 - Errores sintácticos y lógicos\4 - Errores sintácticos y lógicos\obj\Debug\4 - Errores sintácticos y lógicos.exe
+C:\Users\Nicolás\source\repos\4 - Errores sintácticos y lógicos\4 - Errores sintácticos y lógicos\obj\Debug\4 - Errores sintácticos y lógicos.pdb
